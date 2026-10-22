@@ -1,0 +1,49 @@
+body
+{
+    background-color: #283618;
+    padding: 1px;
+}
+
+.heading
+{
+    font-size: 75px;
+    color: #fefae0;
+    font-style: italic;
+    letter-spacing: -2px;
+    font-family: garamond;
+
+    border-style: solid;
+    border: #283618;
+    border-radius: 8px;
+    margin-top: -4px;
+    background-color: #606c38;
+    padding: 20px;
+}
+
+li
+{
+    font-size: larger;
+    font-family: Gill Sans;
+    color: #fefae0;
+    font-style: normal;
+
+    background-color: #606C38;
+
+    padding: 20px;
+    margin: 20px;
+
+    border-style: solid;
+    border: #283618;
+    border-radius: 10px;
+
+    list-style: none;
+}
+
+#chapati, #mandazi, #pilau
+{
+    font-size: larger;
+    font-family: Tahoma;
+    color: #fefae0;
+    font-style: normal;
+    text-decoration: none;
+}
